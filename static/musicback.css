@@ -1,0 +1,32 @@
+.back1{height:100vh;
+    background-size: cover;
+    overflow: hidden;
+    background-image: url("https://miro.medium.com/v2/resize:fit:1400/1*GLICS0sUi0Y_NvMh4l4V6A.jpeg");
+
+}
+.head1{
+    color: white;
+    font-size:80px;
+    padding: 50px;
+}
+.head2{
+    color: white;
+    padding: 50px;
+}
+  .button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button2 {
+    background-color: #6906fe;
+    color: black;
+    border: 2px solid #008CBA;
+  }

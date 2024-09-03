@@ -1,0 +1,2 @@
+Go to pycharm and type python app.py in terminal 
+click on link so that it will generate to chrome

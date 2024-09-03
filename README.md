@@ -19,8 +19,3 @@ The Facial Emotion-Based Music Recommendation System leverages advanced computer
 
 The goal of this project is to create a seamless and intuitive music recommendation system that adapts to the user's emotions in real-time, making music listening a more personalized and enjoyable experience.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/facial-emotion-music-recommendation.git
